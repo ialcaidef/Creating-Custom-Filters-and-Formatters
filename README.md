@@ -1,9 +1,8 @@
 # Creating-Custom-Filters-and-Formatters
 20487C_MOD04_DEMO_L2
 
-Customizing Controllers and Actions
+**Customizing Controllers and Actions**
 
-Creating Custom Filters and Formatters
 
 1. Open navigator, and then go to the following URL:
 
